@@ -5,4 +5,5 @@ Based on our results, the accuracy of our logistic regression classifier on the 
 ![Confusion matrix](https://github.com/angelayang17/resignation/blob/main/logreg.jpg?raw=true)
 
 We also obtained the following classification report:
+
 ![Classification report](https://github.com/angelayang17/resignation/blob/main/classificationreport.jpg?raw=true)
